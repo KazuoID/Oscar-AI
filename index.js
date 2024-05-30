@@ -28,7 +28,8 @@ const {
     copyright,
     help_msg,
     help_kazuo_pro,
-    bot_image
+    bot_image,
+    rapid_api_key
 } = require('./data');
 const { app } = require('./server');
 
@@ -674,7 +675,7 @@ kazuo.command('hen2', async (msg) => {
         url: 'https://girls-nude-image.p.rapidapi.com/',
         params: { type: r1_res },
         headers: {
-            'X-RapidAPI-Key': 'afcca98de4msh1f0fa822273fbb4p11bbc6jsn0c9e1b8ed968',
+            'X-RapidAPI-Key': rapid_api_key,
             'X-RapidAPI-Host': 'girls-nude-image.p.rapidapi.com'
         }
     };
