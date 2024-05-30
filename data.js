@@ -38,6 +38,9 @@ const openai_api = "";
 const openai_api2 = "";
 const openai_api3 = "";
 
+// rapid api
+const rapid_api_key = "";
+
 // api.lolhuman.xyz
 const api_lolhuman = 'Ichanzx'
 const api_lolhuman2 = '521e37eeffa2c10fd1feb4e9'
@@ -179,6 +182,7 @@ module.exports = {
   help_kazuo_pro,
   api_lolhuman,
   api_lolhuman2,
-  api_lolhuman3
+  api_lolhuman3,
+  rapid_api_key
 };
 
