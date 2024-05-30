@@ -1,0 +1,9 @@
+# folder
+node_modules
+.bin
+src
+
+
+# file
+*pp.md
+*package-install.txt
