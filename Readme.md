@@ -1,6 +1,6 @@
 ## Requirement
 
-* nodejs - if not have [Download here]()
+* nodejs - if not have [Download here](https://nodejs.org/en/download)
 * telegram token - get from [@botfather](https://t.me/BotFather)
 * owner id in telegram - if dont know how to see [Get from here](https://t.me/X_Oscar_bot), Just use command /start
 
